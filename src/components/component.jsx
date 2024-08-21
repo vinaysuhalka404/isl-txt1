@@ -1,6 +1,6 @@
-// src/components/component.jsx
-import Button from 'C:/Users/Asus/isl-txt/src/components/ui/button';
-import { Select, SelectTrigger, SelectValue, SelectContent, SelectItem } from 'C:/Users/Asus/isl-txt/src/components/ui/select';
+
+import Button from './ui/button';
+import { Select, SelectTrigger, SelectValue, SelectContent, SelectItem } from './ui/select';
 
 export default function Component() {
   return (

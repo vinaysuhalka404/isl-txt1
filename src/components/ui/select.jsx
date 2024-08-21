@@ -33,5 +33,5 @@ const SelectItem = ({ value, children, className = '', ...props }) => (
 );
 
 // Export components
-export { Select, SelectTrigger, SelectValue, SelectContent, SelectItem };
+export  { Select, SelectTrigger, SelectValue, SelectContent, SelectItem };
 
